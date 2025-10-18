@@ -1,0 +1,63 @@
+[build]
+  publish = "."
+
+# Redirect vanity domains to their sections
+[[redirects]]
+  from = "https://directcelllink.com/*"
+  to = "https://www.monikermerchant.com/domains/directcell/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.directcelllink.com/*"
+  to = "https://www.monikermerchant.com/domains/directcell/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://face404.com/*"
+  to = "https://www.monikermerchant.com/domains/face404/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.face404.com/*"
+  to = "https://www.monikermerchant.com/domains/face404/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://slayveil.com/*"
+  to = "https://www.monikermerchant.com/domains/slayveil/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.slayveil.com/*"
+  to = "https://www.monikermerchant.com/domains/slayveil/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://dripfrenzy.com/*"
+  to = "https://www.monikermerchant.com/domains/dripfrenzy/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.dripfrenzy.com/*"
+  to = "https://www.monikermerchant.com/domains/dripfrenzy/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://trailtexting.com/*"
+  to = "https://www.monikermerchant.com/domains/trailtexting/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.trailtexting.com/*"
+  to = "https://www.monikermerchant.com/domains/trailtexting/:splat"
+  status = 301
+  force = true
